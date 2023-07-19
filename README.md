@@ -1,2 +1,2 @@
 # Pico-Alarm-System
-To be updated. Code to arrive soon.
+To be updated. Main alarm code is to arrive soon.
